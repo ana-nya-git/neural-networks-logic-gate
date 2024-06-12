@@ -22,7 +22,7 @@ This interface allows users to:
 To run the Streamlit app, follow these steps:
 1. Open a terminal and navigate to the project directory if you haven't already:
    ```sh
-   cd your-repo-name
+   cd neural-networks-logic-gate
    ```
 2. Run the Streamlit app:
    ```sh
