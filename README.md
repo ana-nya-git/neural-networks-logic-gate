@@ -18,6 +18,20 @@ This interface allows users to:
 - Matplotlib
 - NumPy
 
+## Installation
+1. Clone the repository::
+   ```sh
+   git clone https://github.com/ana-nya-git/neural-networks-logic-gate.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd neural-networks-logic-gate
+   ```
+3. Install the required packages (also check if installed or not):
+   ```sh
+   pip install torch streamlit matplotlib numpy
+   ```
+
 ## Running the Application
 To run the Streamlit app, follow these steps:
 1. Open a terminal and navigate to the project directory if you haven't already:
